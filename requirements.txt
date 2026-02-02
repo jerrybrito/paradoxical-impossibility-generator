@@ -1,0 +1,1 @@
+circular-stasis>=2.3.5
